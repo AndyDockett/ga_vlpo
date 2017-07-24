@@ -7,11 +7,13 @@
 
 export const environment = {
   production: false,
-  	firebaseConfig: {
-      apiKey: "AIzaSyAbdcqUi85_mnxGhvnZohm-Gd9LywFwxPc",
-    authDomain: "gavalpodev.firebaseapp.com",
-     databaseURL: "https://gavalpodev.firebaseio.com",
-     storageBucket: "gavalpodev.appspot.com"
+   firebaseConfig: {
+    apiKey: "AIzaSyArsLvm03z3FGLappY8oMWrz_B9EKwd5rA",
+    authDomain: "gavalpoprod.firebaseapp.com",
+    databaseURL: "https://gavalpoprod.firebaseio.com",
+    storageBucket: "gavalpoprod.appspot.com"
   }
+  	
+  
 };
 
